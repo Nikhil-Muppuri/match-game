@@ -1,0 +1,19 @@
+.li-item {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+}
+.thumbnail-item {
+  width: 100px;
+  height: 100px;
+}
+.image-btn {
+  background-color: transparent;
+  border: solid 0px;
+  cursor: pointer;
+}
